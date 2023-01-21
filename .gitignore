@@ -1,0 +1,10 @@
+
+# folders
+.vscode
+*/.div2k
+*/__pycache__
+
+
+# files
+*.pyc
+
